@@ -22,7 +22,7 @@ module.exports = function(app){
 		};
 
 		for (var i = 0; i < friends.length; i++){
-			var 
+			var x;
 		}
 
 	});
